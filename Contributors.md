@@ -2649,3 +2649,4 @@
 - [Aymeric Royenette](https://github.com/Wedge-)
 - [Lightxer](https://github.com/Lightxer)
 - [Dee](https://github.com/Sipty)
+- [kangqiwang](https://github.com/kangqiwang)
